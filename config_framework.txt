@@ -1,0 +1,7 @@
+<noOfInputs>
+<noOfOutputs>
+<batchSize>
+<number of hidden layers>
+<space separated number of nodes in each hidden layer>
+<relu - if use relu as activation function, sig - if use sigmoid as activation function>
+<var - if variable learning rate, fixed - if fixed learning rate throuhgout training>
